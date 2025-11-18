@@ -1,6 +1,7 @@
 # MACPAT-Branch-Performance-Analysis
 A data analytics project showcasing Excel ETL, data cleaning, multi-branch consolidation, KPI modeling, and dashboard visualization. Built to analyze revenue, profit, margin efficiency, and performance trends across multiple retail branches.
 
+![Dashboard Preview](assets/MACPAT_dashboard.png)
 
 <h1> “About MACPAT Branch Performance Analysis - Excel Dashboard & KPI Evaluation” </h1>
 
@@ -77,7 +78,7 @@ Cabang Jakarta dan Yogyakarta berada di posisi terbawah dalam hal Profit dan Rev
 - SemarangBranch
 - MedanBranch
 - YogyakartaBranch
-- JakartaBranch
+- JakartaBranch<br>
 
-A Disclaimer;
+<h2>A Disclaimer;</h2><br>
 Data pada file ini merupakan dataset publik yang telah dimodifikasi untuk keperluan analisis portofolio. Tidak mengandung data pribadi atau informasi perusahaan sebenarnya.		
